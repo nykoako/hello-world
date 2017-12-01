@@ -1,2 +1,5 @@
 # hello-world
-Start
+
+Just a Simple Human Being.
+
+The Dumbest coder out there and in here.
